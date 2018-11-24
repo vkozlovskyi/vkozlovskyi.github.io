@@ -1,13 +1,16 @@
 {
   "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "2LREK3F6EL.com.yalantis.Snapbook.beta",
-        "paths": [
-          "*"
+        "apps": [],
+        "details": [
+            {
+                "appID": "2LREK3F6EL.com.yalantis.Snapbook.beta",
+                "paths": [ "*/product/*", "*/category/*"]
+            }
         ]
-      }
-    ]
-  }
+    },
+    "webcredentials": {
+        "apps": [
+            "2LREK3F6EL.com.yalantis.Snapbook.beta"
+        ]
+    }
 }
